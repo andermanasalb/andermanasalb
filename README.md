@@ -1,39 +1,38 @@
 # Hi, I'm Ander
 
-Aerospace engineer with 4 years of industry experience, currently based in Switzerland and transitioning into software and AI through a Master’s, courses, and real projects.
+Aerospace engineer with 4 years of industry experience, currently based in Switzerland and transitioning into software development through a Master’s, structured learning, and real-world projects.
 
 ## About me
 
-I built my professional background in aerospace engineering, where I developed a structured approach to problem-solving, analytical thinking, and attention to detail.
+My background is in aerospace engineering, where I developed a structured mindset, analytical thinking, and a strong attention to detail.
 
-I am now redirecting my career toward software and AI through formal study, continuous learning, and hands-on projects.
+I am now building a new path in software development, with a strong focus on programming fundamentals, problem-solving, clean architecture, testing, and maintainable code.
 
-My goal is to combine engineering discipline with software development and AI to build useful, reliable, and well-designed solutions.
+I use AI as a tool to learn and build more effectively, while staying focused on developing solid technical foundations and becoming a reliable software developer.
 
 ## Current focus
 
-- Strengthening my programming foundations
-- Building real projects to learn by doing
-- Growing into software and AI step by step
-- Using GitHub as a place to document progress and share my work
+- Strengthening my programming fundamentals
+- Building real-world software projects
+- Learning software architecture, testing, and clean code practices
+- Improving through consistent, hands-on development
+- Adapting to modern development workflows, including the effective use of AI tools
 
-## Featured projects
+## Featured project
 
-Here are some of the projects I’m currently building and improving:
+### [JobTaylor](https://github.com/andermanasalb/JobTaylor)
 
-- **Project 1** — Short sentence explaining what it does
-- **Project 2** — Short sentence explaining the problem it solves
-- **Project 3** — Short sentence explaining what you learned or built
+JobTaylor is an AI-powered web application that helps candidates tailor their CV to specific job offers without fabricating experience, qualifications, or certifications.
 
-<details>
-<summary>More about my background</summary>
+Users can create a base CV, search real job postings, evaluate compatibility, generate an adapted version, and export the result in PDF, DOCX, or Markdown.
+
+Built with React, TypeScript, Supabase, Express, and Google Gemini, following Clean Architecture with TDD, E2E testing, and a strong focus on reliability and guardrails.
+
+## Background
 
 - 4 years of professional experience as an aerospace engineer
 - Currently working in Switzerland
-- Transitioning into software and AI through a Master’s, courses, and practical projects
-- Interested in building a strong long-term career in tech
-
-</details>
+- Transitioning into software development through a Master’s, courses, and practical projects
 
 ## Connect with me
 
