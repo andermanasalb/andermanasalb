@@ -28,6 +28,22 @@ Users can create a base CV, search real job postings, evaluate compatibility, ge
 
 Built with React, TypeScript, Supabase, Express, and Google Gemini, following Clean Architecture with TDD, E2E testing, and a strong focus on reliability and guardrails.
 
+### [InvoiceScan](https://github.com/andermanasalb/InvoiceScan)
+
+InvoiceScan is a production-grade invoice automation platform that extracts structured data from PDF invoices using OCR technology.
+
+Users upload invoices, process them asynchronously with BullMQ queues, track events reliably via Outbox pattern, and receive structured data exports.
+
+Built with NestJS, TypeScript, PostgreSQL, Redis, Clean Architecture, TDD, RBAC, OpenTelemetry, and production-grade GitHub Actions CI/CD pipelines.
+
+### [DeepKnight](https://github.com/andermanasalb/DeepKnight)
+
+DeepKnight is an AI-powered chess game featuring advanced opponents powered by deep learning algorithms and chess engine logic.
+
+Players can compete against configurable AI difficulties, visualize boards and moves, analyze positions, and explore strategic game trees.
+
+Built with Python, chess engine libraries, deep learning models (PyTorch), board visualization, and minimax/AI search algorithms with alpha-beta pruning..
+
 ## Background
 
 - 4 years of professional experience as an aerospace engineer
