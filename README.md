@@ -44,6 +44,16 @@ Players can compete against configurable AI difficulties, visualize boards and m
 
 Built with Python, chess engine libraries, deep learning models (PyTorch), board visualization, and minimax/AI search algorithms with alpha-beta pruning..
 
+### 🌐 [Portfolio](https://github.com/andermanasalb/portfolio)
+
+High-performance interactive personal portfolio designed to showcase expertise in
+Full-Stack Development, Aerospace Engineering, and AI-driven solutions.
+
+- **Interface:** Fluid animations, micro-interactions, 3D components (Spline), and an integrated chat simulator in the Hero section
+- **Design:** Premium dark aesthetic (Vercel/Linear style) with glassmorphism, dynamic blurs, and full responsiveness
+- **Sections:** Interactive About cards with spatial hover effects, radar maps, and a fully functional contact form with real-time notifications
+- **Stack:** React 19, Next.js 15, TypeScript, Tailwind CSS 4, Framer Motion, GSAP, Spline, Radix UI, Resend, Sonner
+
 ## Background
 
 - 4 years of professional experience as an aerospace engineer
@@ -52,5 +62,6 @@ Built with Python, chess engine libraries, deep learning models (PyTorch), board
 
 ## Connect with me
 
+- Website: https://www.ander-manas.com/
 - LinkedIn: www.linkedin.com/in/ander-manas
 - Email: ander_manas@hotmail.com
