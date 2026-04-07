@@ -20,7 +20,7 @@ I use AI as a tool to learn and build more effectively, while staying focused on
 
 ## Featured project
 
-### [JobTaylor](https://github.com/andermanasalb/JobTaylor)
+### 🧠 [JobTaylor](https://github.com/andermanasalb/JobTaylor)
 
 JobTaylor is an AI-powered web application that helps candidates tailor their CV to specific job offers without fabricating experience, qualifications, or certifications.
 
@@ -28,7 +28,7 @@ Users can create a base CV, search real job postings, evaluate compatibility, ge
 
 Built with React, TypeScript, Supabase, Express, and Google Gemini, following Clean Architecture with TDD, E2E testing, and a strong focus on reliability and guardrails.
 
-### [InvoiceScan](https://github.com/andermanasalb/InvoiceScan)
+### 🧾 [InvoiceScan](https://github.com/andermanasalb/InvoiceScan)
 
 InvoiceScan is a production-grade invoice automation platform that extracts structured data from PDF invoices using OCR technology.
 
@@ -36,7 +36,7 @@ Users upload invoices, process them asynchronously with BullMQ queues, track eve
 
 Built with NestJS, TypeScript, PostgreSQL, Redis, Clean Architecture, TDD, RBAC, OpenTelemetry, and production-grade GitHub Actions CI/CD pipelines.
 
-### [DeepKnight](https://github.com/andermanasalb/DeepKnight)
+### ♟️ [DeepKnight](https://github.com/andermanasalb/DeepKnight)
 
 DeepKnight is an AI-powered chess game featuring advanced opponents powered by deep learning algorithms and chess engine logic.
 
