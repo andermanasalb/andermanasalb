@@ -46,13 +46,23 @@ Built with Python, chess engine libraries, deep learning models (PyTorch), board
 
 ### 🌐 [Portfolio](https://github.com/andermanasalb/portfolio)
 
-High-performance interactive personal portfolio designed to showcase expertise in
-Full-Stack Development, Aerospace Engineering, and AI-driven solutions.
+High-performance interactive personal portfolio designed to showcase expertise in Full-Stack Development, Aerospace Engineering, and AI-driven solutions.
 
 - **Interface:** Fluid animations, micro-interactions, 3D components (Spline), and an integrated chat simulator in the Hero section
 - **Design:** Premium dark aesthetic (Vercel/Linear style) with glassmorphism, dynamic blurs, and full responsiveness
 - **Sections:** Interactive About cards with spatial hover effects, radar maps, and a fully functional contact form with real-time notifications
 - **Stack:** React 19, Next.js 15, TypeScript, Tailwind CSS 4, Framer Motion, GSAP, Spline, Radix UI, Resend, Sonner
+
+### 🏗️ [Comercial MAR'O](https://github.com/andermanasalb/comercial-maro)
+
+Production website for Comercial MAR'O, a metalwork fabrication and installation company based in Bilbao, built with a clean architecture focused on performance, SEO, and AI-assisted user engagement.
+
+- **Product catalogue:** ~30 static pages across four product categories with technical specs, colour swatches, series comparison tables, and downloadable PDFs
+- **AI chat assistant:** floating widget backed by Gemini 2.5 Flash Lite, grounded exclusively on extracted website content — redirects off-topic queries to the contact form
+- **Contact & email:** Zod-validated form (client + server) sending two parallel Resend emails via typed HTML templates — internal notification and client confirmation
+- **SEO & GDPR:** `buildMetadata()` utility, JSON-LD LocalBusiness schema, dynamic XML sitemap, and a cookie consent banner with granular per-category toggles
+- **Snap-scroll homepage:** CSS `scroll-snap-type: y mandatory` with collapsible top bar, dynamic `--snap-padding` custom property, hysteresis scroll handling, and session-based scroll-position persistence
+- **Stack:** Next.js 16, React 19, TypeScript, Tailwind CSS v4, Framer Motion, shadcn/ui, Resend, Gemini 2.5 Flash Lite, Zod, Playwright (E2E)
 
 ## Background
 
